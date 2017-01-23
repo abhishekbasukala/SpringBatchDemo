@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+	<root id="1001">
+		<date>2012-10-11T00:00:00-04:00</date>
+		<qty>3234</qty>
+		<sales>221132</sales>
+		<staffName>person_0</staffName>
+	</root>
+	<root id="1002">
+		<date>2000-12-12T00:00:00-05:00</date>
+		<qty>1234</qty>
+		<sales>283212</sales>
+		<staffName>person_1</staffName>
+	</root>
+	<root id="1003">
+		<date>2009-03-08T00:00:00-05:00</date>
+		<qty>1453</qty>
+		<sales>333980</sales>
+		<staffName>person_2</staffName>
+	</root>
+</report>
